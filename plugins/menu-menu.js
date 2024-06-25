@@ -149,7 +149,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 > *_${formatDate}_*
 > \`${nombreLugar} - ${ciudad}\`
 
-╭═〘卐 _Diaz bot v3_ 卐〙═⊷❍
+╭═〘卐 _STC-BOT_ 卐〙═⊷❍
 ┃☭╭───────────
 ┃☭│ 〘 卐 _ᴏᴡɴᴇʀs ᴏғᴄ_ 卐 〙
 ┃☭│ 
@@ -159,7 +159,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃☭│
 ┃☭│    ║▌│█║▌│█║▌│█│║▌║
 ┃☭│    ║▌│█║▌│█║▌│█│║▌║
-┃☭│DIAZ BOT x DIAZ MOD
+┃☭│STC BOT x DIAZ MOD
 ┃☭│ 
 ┃☭╰────────────
 ╰══════════════⊷
@@ -535,7 +535,7 @@ ${generateCommand(commandsConfig, usedPrefix).replace(/≡/g, '𖡡')}
 ┃☭│ 
 ┃☭│ ➤ _${usedPrefix}fytendencia | fyranking_
 ┃☭╞════════════
-┃☭│ > 🏆 *TOP en DIAZBOT* 🏆
+┃☭│ > 🏆 *TOP en STC-BOT* 🏆
 ┃☭│
 ┃☭│ ➤ _${usedPrefix}top | lb | leaderboard_
 ┃☭╞════════════
@@ -604,7 +604,7 @@ ${generateCommand(commandsConfig, usedPrefix).replace(/≡/g, '𖡡')}
 ┃☭│ ➤ _${usedPrefix}añadirmodcoins *@tag cantidad*_
 ◟ ══════════⊷❍
 `.trim()
-//await conn.sendFile(m.chat, gataImg, 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 🥷 𝗦𝘂𝗽𝗲𝗿 𝗞𝗮𝘁𝗮𝘀𝗵𝗶𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu }}})
+//await conn.sendFile(m.chat, gataImg, 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 🥷 Super STC-BOT - WhatsApp ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu }}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 const vi = ['https://qu.ax/TNPH.mp4',
 'https://qu.ax/srFl.mp4',
