@@ -102,7 +102,7 @@ let menu = `
 ┃☭│ 
 ┃☭╰───────────────
 ╰═════════════════⊷
-╭════〘卐 _INFO DIAZ BOT_ 卐〙════⊷❍
+╭════〘卐 _INFO STC BOT_ 卐〙════⊷❍
 ┃
 ┃☭│ ᩭ✎ \`\`\`${horarioFecha}\`\`\`
 ┃☭│ ᩭ✎ *${lenguajeGB['smsTotalUsers']()}* ➺ _${Object.keys(global.db.data.users).length}_ 
